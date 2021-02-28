@@ -14,7 +14,7 @@ After running our code for both 2017 and 2018 for the green stocks, it is clear 
 
 ![](Resources/2017moduleresults.PNG)
 
-![](Resources/2018refactoredresults.PNG)
+![](Resources/2017refactoredresults.PNG)
 
 
 ### 2018 
